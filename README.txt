@@ -5,6 +5,7 @@
   * | | | | | || |_| || |_| || |_| || || |___/
     |_| |_| |_|\_____/\_____/\_____||_|\_____)
 
+(Thuat Nhien cloned from source Wed 20/12/2017 developing for Viet Nam Open University)
 Moodle - the world's open source learning platform
 
 Moodle <https://moodle.org> is a learning platform designed to provide
